@@ -1,1 +1,1 @@
-# c3_building_opengl
+# ecolab-logo-opengl
